@@ -8,9 +8,9 @@ Pocketmind 1.0.2
 
 Installs over 1.0.1 and keeps your chats, models and settings.
 
-Pocketmind.apk is 54.6 MB (57,279,102 bytes). Android 10 or later, 64-bit phones. Models are downloaded inside the app.
+Pocketmind.apk is 54.6 MB (57,279,698 bytes). Android 10 or later, 64-bit phones. Models are downloaded inside the app.
 
-SHA-256: 65d0ed6c83c9a1534337bb891b9a5610caaca149735392760638577c83780e29
+SHA-256: 03c2ba394fa2d002887cf5a1d5883a0704cf96973d7bfe2c5b2e38c90ed30deb
 
 Website: https://customgpter.github.io/pocketmind/
 
